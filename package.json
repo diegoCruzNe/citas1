@@ -4,6 +4,7 @@
   "description": "Citas de veterinaria",
   "private": true,
   "scripts": {
+    "test": "node app.js",
     "start": "node app.js"
   },
   "engines": {
