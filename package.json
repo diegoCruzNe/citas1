@@ -1,0 +1,13 @@
+{
+  "name": "citas_veterinaria",
+  "version": "1.0.0",
+  "description": "Citas de veterinaria",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "^14.8.0"
+  },
+  "dependencies": {}
+}
