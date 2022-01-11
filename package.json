@@ -4,11 +4,22 @@
   "description": "Citas de veterinaria",
   "private": true,
   "scripts": {
-    "test": "node app.js",
-    "start": "node app.js"
+    "test": "node js/app.js",
+    "start": "node js/app.js"
   },
   "engines": {
     "node": "^14.8.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoCruzNe/citas1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoCruzNe/citas1/issues"
+  },
+  "homepage": "https://github.com/diegoCruzNe/citas1#readme"
 }
